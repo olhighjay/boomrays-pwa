@@ -4,12 +4,12 @@ import "firebase/firestore";
 import "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDjzF-jiPqWj3-7LeB91pxKPxXC9AWMQFs',
-  authDomain: 'boomrayz.firebaseapp.com',
-  projectId: 'boomrayz',
-  storageBucket: 'boomrayz.appspot.com',
+  apiKey: "AIzaSyDjzF-jiPqWj3-7LeB91pxKPxXC9AWMQFs",
+  authDomain: "boomrayz.firebaseapp.com",
+  projectId: "boomrayz",
+  storageBucket: "boomrayz.appspot.com",
   //   messagingSenderId: "154867934018",
-  appId: '1:154867934018:web:77e06e4e39faf2c8c21edb',
+  appId: "1:154867934018:web:77e06e4e39faf2c8c21edb",
 };
 
 // Initialize Firebase
